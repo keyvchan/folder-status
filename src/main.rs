@@ -17,8 +17,8 @@ fn main() {
     }
     println!(
         "This foldrer has:
-    dirs: {}
-    files: {}
+    \u{e5ff} dirs: {}
+    \u{f0f6} files: {}
     ",
         count_dir, count_file
     )
